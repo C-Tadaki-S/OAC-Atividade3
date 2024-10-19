@@ -12,6 +12,3 @@ run: test
 
 clean:
 	rm -f *.o test
-
-
-

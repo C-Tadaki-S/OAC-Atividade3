@@ -32,4 +32,3 @@ int main() {
 
     assert_mint(res_int, 30);
 }
-
